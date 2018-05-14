@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_name_padding">10dp</dimen>
+    <dimen name="movie_poster_height">150dp</dimen>
+    <dimen name="user_rating_bottom_padding">5dp</dimen>
+    <dimen name="user_rating">10dp</dimen>
+    <dimen name="layout_margin_left">10dp</dimen>
+    <dimen name="layout_margin_big">10dp</dimen>
+    <dimen name="padding_top">16dp</dimen>
+</resources>
